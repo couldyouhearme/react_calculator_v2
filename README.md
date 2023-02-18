@@ -3,6 +3,10 @@
 ### pls refer to: https://www.youtube.com/watch?v=DgRrrOt0Vr8
 
 ### screenshot
-<img width="161" alt="Screen Shot 2023-02-17 at 5 38 12 PM" src="https://user-images.githubusercontent.com/92821560/219837864-466d245e-b24f-45e1-bad5-3ebdb3e97019.png">
+<img width="576" alt="Screen Shot 2023-02-17 at 11 43 36 PM" src="https://user-images.githubusercontent.com/92821560/219848621-ac7bd9f4-a98b-4dda-9aa5-a518f2811712.png">
 
-### bug fix - pending
+
+### fix bug - pending
+1. Enter with leading '.': crash the app
+
+### more: review reducer logic
